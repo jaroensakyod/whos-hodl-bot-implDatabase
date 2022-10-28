@@ -718,7 +718,7 @@
       "$ref": "#/definitions/Holder"
     }
   },
-  "host": "localhost:3000",
+  "host": "ill-plum-lemming-shoe.cyclic.app",
   "basePath": "/v1",
   "tags": [
     {

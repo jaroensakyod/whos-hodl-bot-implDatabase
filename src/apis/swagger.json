@@ -726,7 +726,7 @@
       "description": "Whos-Hodl Backend API"
     }
   ],
-  "schemes": ["http"],
+  "schemes": ["https"],
   "consumes": ["application/json"],
   "products": ["application/json"]
 }
